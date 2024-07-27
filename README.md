@@ -1,3 +1,10 @@
-Welcome to the portfolio of Sai Pramod Nalluri, a dedicated and innovative Software Engineer with over three years of experience in software development, test automation, and web-based application development. With a strong foundation in Java, Python, and cloud technologies, I specialize in creating robust, scalable solutions that drive efficiency and enhance user experiences.
+# React + Vite
 
-Currently pursuing a Master’s in Computer Science, my journey has equipped me with a diverse skill set and a deep understanding of the software development lifecycle. From developing automation frameworks to designing complex web applications, my work reflects a commitment to quality and a passion for continuous learning.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+"# MyPortfolio" 
+"# MyPortfolio" 
